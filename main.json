@@ -1,1 +1,14 @@
-{"name":"cdbenly","number_of_posts_per_page":7,"disqus_shortname":"","posts":[],"pages":[{"title":"About me","date":"2019-02-08","tags":"about","path":"About.html"}]}
+{
+  "name": "cdbenly",
+  "number_of_posts_per_page": 7,
+  "disqus_shortname": "",
+  "posts": [],
+  "pages": [
+    {
+      "title": "About me",
+      "date": "2019-02-08",
+      "tags": "about",
+      "path": "About.html"
+    }
+  ]
+}
